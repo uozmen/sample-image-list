@@ -8,4 +8,5 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <integer name="gridSpanCount">2</integer>
 </resources>

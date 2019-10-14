@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Image List</string>
+    <string name="selected_image">Selected image</string>
+    <string name="item_image">Item image</string>
+    <string name="retry">Retry</string>
+    <string name="error_description">Could not retrieve images.%1$s</string>
+    <string name="error_detail">\nError: %1$s</string>
+    <string name="list_title">Photos</string>
 </resources>
